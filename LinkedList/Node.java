@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Node<T> {
     private T val;
     private Node<T> prev;

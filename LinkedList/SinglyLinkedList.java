@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class SinglyLinkedList<T> implements LinkedList<T> {
     private Node<T> head;
     private Node<T> tail;
