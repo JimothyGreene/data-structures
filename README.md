@@ -4,3 +4,5 @@ A project to explore the major data structures. So far I've implemented the foll
 - Linked List
   - Singly Linked
   - Doubly Linked
+- Stack
+- Queue
